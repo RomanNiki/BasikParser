@@ -1,0 +1,15 @@
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicParser/bin/Debug/net7.0/BasicParser
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicParser/bin/Debug/net7.0/BasicParser.deps.json
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicParser/bin/Debug/net7.0/BasicParser.runtimeconfig.json
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicParser/bin/Debug/net7.0/BasicParser.dll
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicParser/bin/Debug/net7.0/BasicParser.pdb
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicParser/obj/Debug/net7.0/BasicParser.csproj.AssemblyReference.cache
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicParser/obj/Debug/net7.0/BasicParser.GeneratedMSBuildEditorConfig.editorconfig
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicParser/obj/Debug/net7.0/BasicParser.AssemblyInfoInputs.cache
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicParser/obj/Debug/net7.0/BasicParser.AssemblyInfo.cs
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicParser/obj/Debug/net7.0/BasicParser.csproj.CoreCompileInputs.cache
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicParser/obj/Debug/net7.0/BasicParser.dll
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicParser/obj/Debug/net7.0/refint/BasicParser.dll
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicParser/obj/Debug/net7.0/BasicParser.pdb
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicParser/obj/Debug/net7.0/BasicParser.genruntimeconfig.cache
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicParser/obj/Debug/net7.0/ref/BasicParser.dll

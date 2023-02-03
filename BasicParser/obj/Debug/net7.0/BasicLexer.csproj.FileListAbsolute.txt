@@ -1,0 +1,15 @@
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicLexer/bin/Debug/net7.0/BasicLexer
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicLexer/bin/Debug/net7.0/BasicLexer.deps.json
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicLexer/bin/Debug/net7.0/BasicLexer.runtimeconfig.json
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicLexer/bin/Debug/net7.0/BasicLexer.dll
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicLexer/bin/Debug/net7.0/BasicLexer.pdb
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicLexer/obj/Debug/net7.0/BasicLexer.csproj.AssemblyReference.cache
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicLexer/obj/Debug/net7.0/BasicLexer.GeneratedMSBuildEditorConfig.editorconfig
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicLexer/obj/Debug/net7.0/BasicLexer.AssemblyInfoInputs.cache
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicLexer/obj/Debug/net7.0/BasicLexer.AssemblyInfo.cs
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicLexer/obj/Debug/net7.0/BasicLexer.csproj.CoreCompileInputs.cache
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicLexer/obj/Debug/net7.0/BasicLexer.dll
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicLexer/obj/Debug/net7.0/refint/BasicLexer.dll
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicLexer/obj/Debug/net7.0/BasicLexer.pdb
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicLexer/obj/Debug/net7.0/BasicLexer.genruntimeconfig.cache
+/home/aga/SteamLibrary/Users/Roman/Desktop/BasicLexer/BasicLexer/obj/Debug/net7.0/ref/BasicLexer.dll

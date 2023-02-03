@@ -1,0 +1,45 @@
+D:\Учеба\2 курс\KT\RustLexer\RustLexer\bin\Debug\net7.0\RustLexer.exe
+D:\Учеба\2 курс\KT\RustLexer\RustLexer\bin\Debug\net7.0\RustLexer.deps.json
+D:\Учеба\2 курс\KT\RustLexer\RustLexer\bin\Debug\net7.0\RustLexer.runtimeconfig.json
+D:\Учеба\2 курс\KT\RustLexer\RustLexer\bin\Debug\net7.0\RustLexer.dll
+D:\Учеба\2 курс\KT\RustLexer\RustLexer\bin\Debug\net7.0\RustLexer.pdb
+D:\Учеба\2 курс\KT\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.csproj.AssemblyReference.cache
+D:\Учеба\2 курс\KT\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\2 курс\KT\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.AssemblyInfoInputs.cache
+D:\Учеба\2 курс\KT\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.AssemblyInfo.cs
+D:\Учеба\2 курс\KT\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс\KT\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.dll
+D:\Учеба\2 курс\KT\RustLexer\RustLexer\obj\Debug\net7.0\refint\RustLexer.dll
+D:\Учеба\2 курс\KT\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.pdb
+D:\Учеба\2 курс\KT\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.genruntimeconfig.cache
+D:\Учеба\2 курс\KT\RustLexer\RustLexer\obj\Debug\net7.0\ref\RustLexer.dll
+D:\KT\RustLexer\RustLexer\bin\Debug\net7.0\RustLexer.exe
+D:\KT\RustLexer\RustLexer\bin\Debug\net7.0\RustLexer.deps.json
+D:\KT\RustLexer\RustLexer\bin\Debug\net7.0\RustLexer.runtimeconfig.json
+D:\KT\RustLexer\RustLexer\bin\Debug\net7.0\RustLexer.dll
+D:\KT\RustLexer\RustLexer\bin\Debug\net7.0\RustLexer.pdb
+D:\KT\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.csproj.AssemblyReference.cache
+D:\KT\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\KT\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.AssemblyInfoInputs.cache
+D:\KT\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.AssemblyInfo.cs
+D:\KT\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.csproj.CoreCompileInputs.cache
+D:\KT\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.dll
+D:\KT\RustLexer\RustLexer\obj\Debug\net7.0\refint\RustLexer.dll
+D:\KT\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.pdb
+D:\KT\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.genruntimeconfig.cache
+D:\KT\RustLexer\RustLexer\obj\Debug\net7.0\ref\RustLexer.dll
+C:\Users\Roman\Desktop\RustLexer\RustLexer\bin\Debug\net7.0\RustLexer.exe
+C:\Users\Roman\Desktop\RustLexer\RustLexer\bin\Debug\net7.0\RustLexer.deps.json
+C:\Users\Roman\Desktop\RustLexer\RustLexer\bin\Debug\net7.0\RustLexer.runtimeconfig.json
+C:\Users\Roman\Desktop\RustLexer\RustLexer\bin\Debug\net7.0\RustLexer.dll
+C:\Users\Roman\Desktop\RustLexer\RustLexer\bin\Debug\net7.0\RustLexer.pdb
+C:\Users\Roman\Desktop\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.csproj.AssemblyReference.cache
+C:\Users\Roman\Desktop\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\Desktop\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.AssemblyInfoInputs.cache
+C:\Users\Roman\Desktop\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.AssemblyInfo.cs
+C:\Users\Roman\Desktop\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Desktop\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.dll
+C:\Users\Roman\Desktop\RustLexer\RustLexer\obj\Debug\net7.0\refint\RustLexer.dll
+C:\Users\Roman\Desktop\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.pdb
+C:\Users\Roman\Desktop\RustLexer\RustLexer\obj\Debug\net7.0\RustLexer.genruntimeconfig.cache
+C:\Users\Roman\Desktop\RustLexer\RustLexer\obj\Debug\net7.0\ref\RustLexer.dll
